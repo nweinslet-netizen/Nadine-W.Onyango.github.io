@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nadine Weinslet Onyango | Resume</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #1a73e8;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #ccc;
+      margin: 20px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Nadine Weinslet Onyango</h1>
+  <p>
+    📞 0718 332 888<br>
+    📧 nweinslet@gmail.com<br>
+    📍 Nairobi, Kenya
+  </p>
+
+  <hr>
+
+  <h2>Professional Summary</h2>
+  <p>
+    Aspiring software engineer with hands-on experience in web development,
+    computer systems support, and software applications. Skilled in building
+    web-based solutions using HTML, CSS, and JavaScript. A fast learner with
+    strong problem-solving and communication skills, seeking an industrial
+    attachment or entry-level opportunity.
+  </p>
+
+  <hr>
+
+  <h2>Education</h2>
+  <p>
+    <strong>Kabete National Polytechnic</strong><br>
+    Diploma in Information Communication Technology (ICT)<br>
+    2024 – Present
+  </p>
+
+  <hr>
+
+  <h2>Technical Skills</h2>
+  <ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Computer Repair and Maintenance</li>
+    <li>Software Installation & Troubleshooting</li>
+    <li>Microsoft Office</li>
+    <li>Internet & Email Configuration</li>
+  </ul>
+
+  <hr>
+
+  <h2>Projects</h2>
+
+  <p><strong>To-Do List Web Application</strong></p>
+  <ul>
+    <li>Developed a task management app with add, delete, and complete features</li>
+    <li>Used JavaScript DOM manipulation</li>
+  </ul>
+
+  <p><strong>Weather Forecast Web Application</strong></p>
+  <ul>
+    <li>Built a weather app using an external API</li>
+    <li>Displayed real-time weather data dynamically</li>
+  </ul>
+
+  <p><strong>FilMere Movie Listing Website</strong></p>
+  <ul>
+    <li>Developed a website showcasing modern and popular movies</li>
+    <li>Organized movies by genre with posters and descriptions</li>
+  </ul>
+
+  <hr>
+
+  <h2>Referees</h2>
+  <p>
+    <strong>Ms. Jeniffer Kibiri</strong><br>
+    Software Engineer<br>
+    Phone: +254 740 902 461
+  </p>
+
+  <p>
+    <strong>Mr. Nyaberi</strong><br>
+    Lecturer, Kabete National Polytechnic<br>
+    Phone: +254 703 880 656
+  </p>
+
+</body>
+</html>
